@@ -4,5 +4,5 @@
 <br />
 <br />
 <p align='center'>
-<img align='center' width='800' src='./illustration.png'/>
+<img align='center' width='800' src='./illustration.svg'/>
 </p>
