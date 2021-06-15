@@ -4,5 +4,5 @@
 <br />
 <br />
 <p align='center'>
-<img align='center' width='400' src='https://user-images.githubusercontent.com/55967510/121965454-6d964680-cd43-11eb-888c-8a81b47b9b30.png' />
+<img align='center' width='400' src='./illustration.svg' />
 </p>
